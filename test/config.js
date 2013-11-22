@@ -6,8 +6,8 @@ var BufferStream = require('../lib/BufferStream');
 
 before(function() {
 	host = 'oss.aliyuncs.com';
-	access_id = '6dpqu9ds4tpkoleq0fxu5ug3';
-	access_key = '8CYXNlVvPU5Xl6wgd326JTTICXA=';
+	access_id = 'YOUR-ACCESS-ID';
+	access_key = 'YOUR-ACCESS-KEY';
 
 	test_bucket_name = 'bucket20121212';
 	test_key_name = 'key20121212';
