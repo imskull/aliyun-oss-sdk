@@ -1,0 +1,23 @@
+{
+  "author": "Gao Xiong <gaoxiong_nwpu@yahoo.com.cn>",
+  "name": "aliyun-oss",
+  "description": "A node.js api for aliyun oss(Open Storage Service). It is MIT licensed.",
+  "version": "0.0.1",
+  "keywords": [
+    "aliyun",
+    "oss"
+  ],
+  "repository": {
+    "url": ""
+  },
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.8.2"
+  },
+  "dependencies": {
+    "elementtree": "0.1.3"
+  }
+}

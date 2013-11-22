@@ -1,0 +1,6 @@
+-t 0
+--globals host
+--globals access_id
+--globals access_key
+--globals test_bucket_name
+--globals test_key_name
